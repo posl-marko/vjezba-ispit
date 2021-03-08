@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "delay": "^5.0.0",
     "seed-random": "^2.2.0"
-  }
+  },
+  "dependencies": {}
 }
